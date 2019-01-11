@@ -3,4 +3,6 @@ there are three types of SSO
 First one is SAML
 Second is Password Sync for SAAS Applications
 Third one is Federation Service by Microsoft or third party
+2fa is good to go along with SSO
 This are the type os SSO that exist
+With 2fa
